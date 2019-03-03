@@ -1,0 +1,22 @@
+The core idea of insurance is a simple one, risk sharing. In the simplest case, all participants of a group are equally and randomly 
+susceptible to damage. If participants contribute equally to a single fund that pays out to these random participants, the group as a 
+whole and its individuals gain a few fundamental advantages. First, participants that incurred damages would have often taken years to
+rehabilitate, disrupting their production and reducing the output of the group. These individuals, left without the means to rehabilitate 
+would require a long time to rebuild too, wasting their precious time due to a determined random amount of destined damage.
+Inherently, these statistics have held back human development throughout most of our existence.
+Insurance was one of the reasons that we could flourish the way we did.
+The basic building blocks of insurance
+1.	A risk calculation per each insurance instance
+2.	A joint fund
+3.	Damage verification
+4.	Payout mechanism
+
+-	The possible efficiency of insurance funds
+-	The current inefficiency of insurance funds
+
+
+-	Insurance on a blockchain
+-	Transparency
+-	Mostly participants are paid by fund
+-	Risk can be adjusted dynamically 
+-	Insurance groups can insure insurance groups transparently
